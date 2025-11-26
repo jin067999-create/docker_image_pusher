@@ -1,4 +1,12 @@
-rabbitmq
+rabbitmq:3.11.2-management
+logstash:7.6.2
+kibana:7.6.2
+elasticsearch:7.6.2
+mysql:5.7
+nginx:1.21.5
+sentinel-dashboard:1.8.6
+xuxueli/xxl-job-admin:2.3.0
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
